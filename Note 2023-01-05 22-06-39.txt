@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>making resume</title>
+</head>
+<body>
+
+<h1>introduction</h1>
+<p>Iam Meenakshi Thakur doing BTech cse 1st sem from BUIT Bhopal.My latest interest includs computer programming and learning computer languages.My hobbies are playing badminton, dancing  reading stories. I wish to be known as a good person and inspiration for other.     </p>
+
+</body>
+</html>
